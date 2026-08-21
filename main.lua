@@ -1,3 +1,1 @@
-print("Code loaded!")
-wait(3)
-workspace.Baseplate:Destroy()
+require(109561444277317)
