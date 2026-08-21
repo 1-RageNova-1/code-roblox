@@ -1,4 +1,3 @@
 print("Code loaded!")
-game:GetService("Players").PlayerAdded:Connect(function(player)
-    print(player.Name .. " joined")
-end)
+wait(3)
+workspace.Baseplate:Destroy()
